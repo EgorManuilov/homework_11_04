@@ -1,4 +1,4 @@
-from utils import dicts
+from utils import dict
 
 
 def test_get_val():
