@@ -1,5 +1,7 @@
 from utils import arrs
 
+import unittest
+
 
 def test_get():
     assert arrs.get([1, 2, 3], 1) != 3
